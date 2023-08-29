@@ -1,2 +1,3 @@
-# mtn-momo-api
-A flexible and consistent Ruby gem for implementing MTN Mobile Money APIs using REST architectural principles and well-defined objects.
+# MTN Mobile Money API Ruby Gem
+
+This Ruby gem provides a **flexible and consistent** way to implement MTN Mobile Money APIs. It follows **REST architectural principles** and uses well-defined objects abstracted from underlying object representations in various mobile money systems. The gem supports a standard set of transaction types and key enumerations, and adheres to **ISO international standards** for currency and country codes. Supplementary metadata and sub-types enable the conveyance of use case or mobile money provider-specific properties. A flexible construct allows the identification of target accounts and transaction parties using one or multiple identifier types.
